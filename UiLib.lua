@@ -1,4 +1,5 @@
 -- Nice skidded shit faggot :)
+-- Leaked By Nobody
 local Library do 
     local Workspace = game:GetService("Workspace")
     local UserInputService = game:GetService("UserInputService")
@@ -7606,4 +7607,5 @@ Library:Notification({
 
 Window:Init()
 getgenv().Library = Library
+
 return Library
